@@ -1,5 +1,5 @@
 def create_an_empty_array
-fairy_tale = [rapunzel,cinderella,the griffen,the glass caffin]
+ [rapunzel,cinderella,the griffen,the glass caffin]
 end
 
 def create_an_array
