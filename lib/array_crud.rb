@@ -1,5 +1,5 @@
 def create_an_empty_array
-  ["rapunzel","cinderella","the griffen","the glass"]
+  []
 end
 
 def create_an_array
