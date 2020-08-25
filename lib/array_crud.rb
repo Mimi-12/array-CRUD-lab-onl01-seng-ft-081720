@@ -1,5 +1,5 @@
 def create_an_empty_array
- [rapunzel,cinderella,the griffen,the glass caffin]
+four_elements = [rapunzel,cinderella,the griffen,the glass caffin]
 end
 
 def create_an_array
